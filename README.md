@@ -1,4 +1,4 @@
-# linear-algebra-course-project
-Linear Algebra Final Project
+# Numerical Linear Algebra Mini Library in C
 
-This project written in pure C and all matrix operations written from scratch.
+In this mini project some of numerical methods for solving linear equation is implemented from scratch.
+
